@@ -1,0 +1,7 @@
+C:\Users\102146016\Desktop\ArrayExe\ArrayExe\bin\Debug\ArrayExe.exe.config
+C:\Users\102146016\Desktop\ArrayExe\ArrayExe\bin\Debug\ArrayExe.exe
+C:\Users\102146016\Desktop\ArrayExe\ArrayExe\bin\Debug\ArrayExe.pdb
+C:\Users\102146016\Desktop\ArrayExe\ArrayExe\obj\Debug\ArrayExe.csprojAssemblyReference.cache
+C:\Users\102146016\Desktop\ArrayExe\ArrayExe\obj\Debug\ArrayExe.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Desktop\ArrayExe\ArrayExe\obj\Debug\ArrayExe.exe
+C:\Users\102146016\Desktop\ArrayExe\ArrayExe\obj\Debug\ArrayExe.pdb
