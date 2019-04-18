@@ -1,0 +1,7 @@
+C:\Users\102146016\Desktop\ListEXE\ListEXE\bin\Debug\ListEXE.exe.config
+C:\Users\102146016\Desktop\ListEXE\ListEXE\bin\Debug\ListEXE.exe
+C:\Users\102146016\Desktop\ListEXE\ListEXE\bin\Debug\ListEXE.pdb
+C:\Users\102146016\Desktop\ListEXE\ListEXE\obj\Debug\ListEXE.csprojAssemblyReference.cache
+C:\Users\102146016\Desktop\ListEXE\ListEXE\obj\Debug\ListEXE.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Desktop\ListEXE\ListEXE\obj\Debug\ListEXE.exe
+C:\Users\102146016\Desktop\ListEXE\ListEXE\obj\Debug\ListEXE.pdb
